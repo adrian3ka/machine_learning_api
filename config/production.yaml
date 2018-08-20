@@ -1,0 +1,5 @@
+database: 'karir_development'
+host: localhost
+port: 5555
+username: postgres
+password: password
